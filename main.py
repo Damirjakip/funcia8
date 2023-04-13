@@ -15,3 +15,5 @@ def g(x):
 
 h = compose_functions(f, g)
 print(h(2)) 
+
+print('Nurkhan')
