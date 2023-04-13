@@ -19,4 +19,9 @@ print(h(2))
 print('Nurkhan')
 print('Aidynbek')
 print('Damir')
+<<<<<<< HEAD
 print('ASD')
+=======
+print('llll')
+print('hsdcgkyu')
+>>>>>>> d8cd053b8674779973df32fbad5a1f9086d00399
